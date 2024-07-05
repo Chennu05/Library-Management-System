@@ -35,21 +35,5 @@ LibraryManagementSystem/
   ├── transaction.py # Transaction class implementation
   └── database.py # Database handling (MySQL)
 
-├── data/ # Data directory (optional)
-  ├── books.csv # Sample CSV file for books
-  └── users.csv # Sample CSV file for users
-
-└── requirements.txt # Python dependencies
-
-
-## Data Directory
-
-The `data` directory contains sample data files used by the Library Management System:
-
-- `books.csv`: CSV file containing book information.
-- `users.json`: JSON file storing user details.
-- `transactions.db`: SQLite database for transaction logs.
-
-These files are used for demonstration purposes and can be expanded with real-world data as needed.
 
 
