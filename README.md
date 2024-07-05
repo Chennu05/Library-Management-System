@@ -51,7 +51,7 @@ LibraryManagementSystem/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Library-Management-System.git
+   git clone https://github.com/Chennu05/Library-Management-System
    cd Library-Management-System
 
 
