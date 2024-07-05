@@ -41,3 +41,15 @@ LibraryManagementSystem/
 
 └── requirements.txt # Python dependencies
 
+
+## Data Directory
+
+The `data` directory contains sample data files used by the Library Management System:
+
+- `books.csv`: CSV file containing book information.
+- `users.json`: JSON file storing user details.
+- `transactions.db`: SQLite database for transaction logs.
+
+These files are used for demonstration purposes and can be expanded with real-world data as needed.
+
+
