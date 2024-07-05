@@ -29,15 +29,15 @@ LibraryManagementSystem/
 ├── README.md # Project overview, setup instructions, and usage guide
 
 ├── src/ # Source code directory
-│ ├── main.py # Main program file
-│ ├── book.py # Book class implementation
-│ ├── user.py # User class implementation
-│ ├── transaction.py # Transaction class implementation
-│ └── database.py # Database handling (MySQL)
+  ├── main.py # Main program file
+  ├── book.py # Book class implementation
+  ├── user.py # User class implementation
+  ├── transaction.py # Transaction class implementation
+  └── database.py # Database handling (MySQL)
 
 ├── data/ # Data directory (optional)
-│ ├── books.csv # Sample CSV file for books
-│ └── users.csv # Sample CSV file for users
+  ├── books.csv # Sample CSV file for books
+  └── users.csv # Sample CSV file for users
 
 └── requirements.txt # Python dependencies
 
