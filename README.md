@@ -36,4 +36,23 @@ LibraryManagementSystem/
   └── database.py # Database handling (MySQL)
 
 
+- `main.py`: Entry point of the application.
+- `book.py`: Module for handling book-related operations.
+- `user.py`: Module for managing user information.
+- `transaction.py`: Module for recording borrowing and returning transactions.
+
+## Setup Instructions
+
+### Prerequisites
+
+- Python 3.x installed on your system.
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/Library-Management-System.git
+   cd Library-Management-System
+
+
 
